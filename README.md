@@ -1,4 +1,4 @@
 # matlab
 MATLAB Scripts for Solving Complex Mathematical Problems
 
-This repository contains a collection of MATLAB codes designed to solve advanced mathematical challenges, including topics like linear algebra, numerical analysis, optimization, and more. The scripts are written clearly and modularly, with a focus on accuracy, efficiency, and ease of understanding.
+TThis repository contains a collection of MATLAB codes developed as part of academic coursework at Ariel University. The scripts are designed to solve advanced mathematical challenges, including topics such as linear algebra, numerical analysis, optimization, and more.
